@@ -40,7 +40,7 @@ Building real products. Shipping real code. Learning in public.
 ## 🏢 Studio
 
 Building under **TryBild** — a Mumbai-based product studio
-*(Android apps published under RY Studio Lab on Play Store)*
+*(Android apps published under TryBild on Play Store)*
 
 ---
 
