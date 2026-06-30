@@ -15,7 +15,7 @@ Building real products. Shipping real code. Learning in public.
 **MaalSaathi** — WhatsApp AI assistant for Indian truck owners
 `Node.js` `MongoDB` `OpenAI` `WhatsApp Cloud API`
 > Trip tracking · Expense logging · P&L reports — in Hindi, on WhatsApp
-> 🟢 Live in production · 162+ users · 72+ paid users · ₹46k MRR
+> 🟢 Live in production · Total users 250+ · TRUSTED USERS .
 
 **RentPey** — WhatsApp-native rent management for Indian landlords
 `Node.js` `MongoDB` `WhatsApp Cloud API` `node-cron`
@@ -60,5 +60,5 @@ Building under **TryBild** — a Mumbai-based product studio
 ## 📊 This Month
 
 - 🛡️ **Attendr** — Android app + backend shipping daily
-- 🚛 **MaalSaathi** — 72+ paid users · ₹46k MRR
+- 🚛 **MaalSaathi** — Total users 250+ TRUSTED USERS .
 - 🤖 **AutoX** — AI agent running locally
