@@ -2,7 +2,7 @@
 
 # Rahul Yadav
 
-**Self-taught developer · Mumbai 🇮🇳**
+**Self-taught developer**
 Building real products. Shipping real code. Learning in public.
 
 [![Website](https://img.shields.io/badge/trybild.com-fe3c00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://trybild.com)
