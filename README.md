@@ -2,7 +2,7 @@
 
 # Rahul Yadav
 
-**Self-taught developer**
+**Self-taught developer · Mumbai 🇮🇳**
 Building real products. Shipping real code. Learning in public.
 
 [![Website](https://img.shields.io/badge/trybild.com-fe3c00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://trybild.com)
@@ -33,11 +33,23 @@ collaborators, building in the open, one working product at a time.
 ---
 
 - 🏢 Building under **TryBild** — a Mumbai-based product studio
-- 🔨 Currently deep in **JellyClaw** — local AI agents that run while you sleep
+- 🔨 Currently deep in **JellyClaw** — local AI agents that run while you sleep, open source at [JellyClaw-org](https://github.com/JellyClaw-org)
 - 🚛 **TruckHisaab** is live in production with 250+ trusted users
 - 💬 Ask me about GPS attendance systems, WhatsApp automation, or local-first AI
 - 🌱 Learning Java + DSA, Kotlin/Compose, and German (B2) for an IT-Ausbildung 🇩🇪
 - 📫 Reach me at [trybild.com](https://trybild.com) or [@trybild](https://x.com/trybild)
+
+---
+
+### 🏢 Organizations
+
+<div align="center">
+
+[![TryBild](https://img.shields.io/badge/TryBild-fe3c00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trybild)
+&nbsp;&nbsp;
+[![JellyClaw](https://img.shields.io/badge/JellyClaw--org-ff4fa3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JellyClaw-org)
+
+</div>
 
 ---
 
@@ -75,6 +87,7 @@ collaborators, building in the open, one working product at a time.
 ![GoDaddy](https://img.shields.io/badge/-GoDaddy-1BDBDB?style=flat-square&logo=godaddy&logoColor=white)
 
 ---
+
 <div align="center">
 
 *Building under **TryBild** — a Mumbai-based product studio* 🏢
