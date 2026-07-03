@@ -1,64 +1,44 @@
-# Hey, I'm Rahul 👋
+<div align="center">
 
-Self-taught developer from Mumbai 🇮🇳
+# Rahul Yadav
+
+**Self-taught developer**
 Building real products. Shipping real code. Learning in public.
 
----
+[![Website](https://img.shields.io/badge/trybild.com-fe3c00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://trybild.com)
+[![X](https://img.shields.io/badge/@trybild-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/trybild)
 
-## 🚀 What I'm Building
-
-**Attendr** — GPS-based digital attendance for Indian businesses
-`Kotlin` `Jetpack Compose` `Node.js` `MongoDB`
-> No biometrics, no paperwork — just phone + GPS + OTP
-> 🔨 Active development · Android app + backend live on Render
-
-**MaalSaathi** — WhatsApp AI assistant for Indian truck owners
-`Node.js` `MongoDB` `OpenAI` `WhatsApp Cloud API`
-> Trip tracking · Expense logging · P&L reports — in Hindi, on WhatsApp
-> 🟢 Live in production · Total users 250+ · TRUSTED USERS .
-
-**RentPey** — WhatsApp-native rent management for Indian landlords
-`Node.js` `MongoDB` `WhatsApp Cloud API` `node-cron`
-> Auto reminders · Payment verification · Tenant management — on WhatsApp
-> 🔨 Under active development
-
-**AutoX** — Autonomous AI software engineer agent
-`Python` `Ollama` `DeepSeek-Coder` `Flask`
-> Locally running AI agent · Self-healing · Vector memory
-> 🔨 Active development
+</div>
 
 ---
 
-## ☕ Currently Learning
+### 🚀 Building
 
-**Java + DSA** — via Kunal Kushwaha's curriculum
-**Kotlin** — Android development with Jetpack Compose
-**German B2** — working toward Germany IT-Ausbildung 🇩🇪
-
----
-
-## 🏢 Studio
-
-Building under **TryBild** — a Mumbai-based product studio
-*(Android apps published under TryBild on Play Store)*
+| | | |
+|---|---|---|
+| 🛡️ **[Attendr](https://trybild.com)** | GPS attendance for Indian businesses — no biometrics, just phone + OTP | `Kotlin` `Node.js` |
+| 🚛 **[TruckHisaab](https://trybild.com)** | WhatsApp AI for truck owners — trip &amp; expense tracking in Hindi | `Node.js` `OpenAI` |
+| 🏠 **RentPey** | WhatsApp-native rent management for landlords | `Node.js` `WhatsApp API` |
+| 🪼 **[JellyClaw](https://jellyclaw.in)** | Local AI agent team — the office that works while you sleep | `Python` `Ollama` |
 
 ---
 
-## 🛠 Stack
+### ☕ Learning
+`Java + DSA` `Kotlin` `German B2 🇩🇪`
 
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+### 🛠 Stack
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
 ---
 
-## 📊 This Month
+<div align="center">
 
-- 🛡️ **Attendr** — Android app + backend shipping daily
-- 🚛 **MaalSaathi** — Total users 250+ TRUSTED USERS .
-- 🤖 **AutoX** — AI agent running locally
+*Building under **TryBild** — a Mumbai-based product studio* 🏢
+
+</div>
