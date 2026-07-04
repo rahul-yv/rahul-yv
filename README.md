@@ -43,13 +43,17 @@ collaborators, building in the open, one working product at a time.
 
 ### 🏢 Organizations
 
-<div align="center">
-
-[![TryBild](https://img.shields.io/badge/TryBild-fe3c00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trybild)
-&nbsp;&nbsp;
-[![JellyClaw](https://img.shields.io/badge/JellyClaw--org-ff4fa3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JellyClaw-org)
-
-</div>
+<p align="center">
+  <a href="https://github.com/TryBild">
+    <img src="https://github.com/TryBild.png?size=40" width="20" height="20" style="border-radius:50%;vertical-align:middle;margin-right:6px;" />
+    <b>@TryBild</b>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/JellyClaw-org">
+    <img src="https://github.com/JellyClaw-org.png?size=40" width="20" height="20" style="border-radius:50%;vertical-align:middle;margin-right:6px;" />
+    <b>@jellyclaw-org</b>
+  </a>
+</p>
 
 ---
 
