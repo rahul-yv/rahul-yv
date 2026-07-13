@@ -36,8 +36,7 @@ working product at a time, built in the open.
 | | | |
 |---|---|---|
 | 🛡️ **[Attendr](https://trybild.com)** | GPS attendance for Indian businesses — no biometrics, just phone + OTP | `Kotlin` · 🔨 building |
-| 🚛 **[TruckHisaab](https://trybild.com)** | WhatsApp AI for truck owners — trip &amp; expense tracking, in Hindi | `Node.js` · 🟢 250+ users |
-| 🏠 **RentPey** | WhatsApp-native rent management for landlords | `Node.js` · 🔨 building |
+| 🚛 **[TruckHisaab](https://trybild.com)** | WhatsApp AI for truck owners — trip &amp; expense tracking, in Hindi | `Node.js` · 🟢 1000+ users |
 | 🪼 **[JellyClaw](https://jellyclaw.in)** | Local AI agent team — the office that works while you sleep | `Python` `Ollama` · 🔨 open source |
 
 ---
