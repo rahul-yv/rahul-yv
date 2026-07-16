@@ -34,19 +34,4 @@ working product at a time, built in the open.
 | 🚛 **[TruckHisaab](https://trybild.com)** | WhatsApp AI for truck owners — trip &amp; expense tracking, in Hindi | `Node.js` · 🟢 1000+ users |
 | 🪼 **[JellyClaw](https://jellyclaw.in)** | Local AI agent team — the office that works while you sleep | `Python` `Ollama` · 🔨 open source |
 
----
-
-### Stack
-
-`Kotlin` `Python` `JavaScript` `Java` — languages
-`Node.js` `Express` `MongoDB` `SQLite` — backend
-`Ollama` `Claude` `OpenAI` `WhatsApp Cloud API` — AI &amp; automation
-`Android` `Jetpack Compose` — mobile
-
----
-
-<div align="center">
-
-📫 **[trybild.com](https://trybild.com)** · **[@trybild](https://x.com/trybild)**
-
-</div>
+___
