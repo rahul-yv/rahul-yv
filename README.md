@@ -3,11 +3,6 @@
 # Rahul Yadav
 
 **Self-taught developer**
-Building real products. Shipping real code. Learning in public.
-
-[![Website](https://img.shields.io/badge/trybild.com-fe3c00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://trybild.com)
-[![X](https://img.shields.io/badge/@trybild-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/trybild)
-[![GitHub](https://img.shields.io/badge/rahul--yv-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahul-yv)
 
 </div>
 
@@ -47,22 +42,6 @@ working product at a time, built in the open.
 `Node.js` `Express` `MongoDB` `SQLite` — backend
 `Ollama` `Claude` `OpenAI` `WhatsApp Cloud API` — AI &amp; automation
 `Android` `Jetpack Compose` — mobile
-
----
-
-### Organizations
-
-<p>
-  <a href="https://github.com/TryBild">
-    <img src="https://github.com/TryBild.png?size=40" width="20" height="20" style="border-radius:50%;vertical-align:middle;margin-right:6px;" />
-    <b>@TryBild</b>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/JellyClaw-org">
-    <img src="https://github.com/JellyClaw-org.png?size=40" width="20" height="20" style="border-radius:50%;vertical-align:middle;margin-right:6px;" />
-    <b>@jellyclaw-org</b>
-  </a>
-</p>
 
 ---
 
