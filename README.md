@@ -17,3 +17,4 @@ formal CS degree — I learned by shipping, breaking things in
 production, and fixing them at 2 AM.
 
 
+---
